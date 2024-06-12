@@ -12,3 +12,4 @@ junto com a nova imagem vem um novo texto que conta a historia do personagem atu
 
 
 
+
