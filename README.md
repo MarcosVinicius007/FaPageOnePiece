@@ -1,7 +1,7 @@
 <h1>Fã Page One Piece</h1>
 <string>Sobre o Projeto</string>
 <hr>
-<p>Fã Page One Piece é um  sit demostrativo,feito com <string>Html/Css/JavaScript.</string>
+<p>Fã Page One Piece é um  sit demostrativo feito com <string>Html/Css/JavaScript.</string>
 onde eu usei personagens do anime One-Piece.</p>
 <hr>
 <p>Na tela Principal temos a imagem do Personagem<string>Monkey The Luff</string>string> ,acompanhado de um texto que <br>
