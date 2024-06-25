@@ -9,6 +9,7 @@ conta a historia do mesmo.<br>
 O lado direito temos uma aba com cinco botões ,cada botão está estilizado com a imagem de um personagem do anime.<br>
 Ao acionar um dos botões a imagem da tela principal é subistitudida pela imagem do personagem à qual o botão foi estilizado,<br>
 junto com a nova imagem vem um novo texto que conta a historia do personagem atual e assim sucesivamente.</p>
+<hr>
 
 
 
